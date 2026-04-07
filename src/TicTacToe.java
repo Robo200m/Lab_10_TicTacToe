@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class TicTacToe {
 
     private static final int ROWS = 3;
     private static final int COLS = 3;
